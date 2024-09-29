@@ -1,6 +1,6 @@
 // Criando as variáveis para armazenar o nome e o XP do herói
-let nomeHeroi = "Heather"; // Substitua por qualquer nome
-let xpHeroi = 8500; // Substitua pelo valor de XP desejado
+let nomeHeroi = "Heather"; // Substitua pelo nome do avatar
+let xpHeroi = 8500; // Substitua pelo valor de XP atingido
 
 // Função para determinar o nível do herói com base no XP
 function determinarNivel(xp) {
